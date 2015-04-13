@@ -1,0 +1,40 @@
+{
+  "posts": [
+    {
+       "title":  "How to Survive An Accelerator Program",
+       "description": "In my personal journey to happiness in not only my career, but also my life, I sought out a program that could fulfill my curiosity and passion for creation, technology and helping people and this planet. This led me to BDW.",
+       "url": "https://medium.com/@ashleeperry/how-to-survive-bdw-a-50-week-accelerator-program-7e75240d1b43",
+       "guid": "1", 
+       "categories": ["startup","design","accelerator"],  
+       "author": "Ashlee Perry",  
+       "date": "April 4, 2015"
+    },
+    {
+       "title":  "One of Many Paths to my Own Discovery",
+       "description": "At BDW, where I am currently in their 50-week designer founder accelerator, we get the distinct opportunity to visit and engage with Denver/Boulder creative companies, as they are potential places of employment after our 50-weeks in the program. Last week, we were headed to EffectiveUI. We’d learned they had a 5-hour time slot planned for us and we had no idea what to expect.",
+       "url": "https://medium.com/re-write/one-of-many-paths-to-my-own-discovery-7b0f36888891",
+       "guid": "2", 
+       "categories": ["discovery","ideas","startup"],  
+       "author": "Ashlee Perry",  
+       "date": "March 16, 2015"
+    },
+    {
+       "title":  "The Power is in the Pose: The Superhero Pose",
+       "description": "After a tiring, but fun day I found myself lounging on my couch indulging in the latest episode of Grey’s Anatomy attempting to turn off my brain for a while. If you aren’t familiar, this show is about goings-on at a hospital and in this particular episode a doctor was preparing to do a very intense surgery. She was standing in an “odd” position and a fellow doctor asked her “What are you doing?”, she simply replied,“I am being a superhero”.",
+       "url": "https://medium.com/re-write/the-power-is-in-the-pose-13cfa8d97cda",
+       "guid": "3", 
+       "categories": ["power","confidence","startup"],  
+       "author": "Ashlee Perry",  
+       "date": "March 7, 2015"
+    },
+    {
+       "title":  "That Million Dollar Idea (In Progress)",
+       "description": "As part of my year at BDW, the designer founder accelerator I am currently a part of, we have something called Startup Semester. This semester is comprised of first pitching ideas to the cohort that in turn, hopefully, sparks passion for a group of individuals who can realize these ideas and turn them into profitable companies. As this semester lasts from March until August, during which time we will be formulating, designing, building and, finally, launching our ideas — I am anxious, to say the least, about coming up with OR having to choose an idea to work on.",
+       "url": "https://medium.com/re-write/that-million-dollar-idea-in-progress-e4c8ba8822ef",
+       "guid": "4", 
+       "categories": ["ideas","design","startup"],  
+       "author": "Ashlee Perry",  
+       "date": "February 24, 2015"
+    }
+  ]
+}
